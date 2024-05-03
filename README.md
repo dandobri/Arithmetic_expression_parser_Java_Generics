@@ -60,3 +60,4 @@ java -jar ArithmeticExpressionEvaluator.jar -i "x * (x - 2)*x + 1"
 - The project emphasizes the ease of adding new types and operations.
 - The implementation contains no unchecked type conversions and does not use the @SuppressWarnings annotation.
 
+
